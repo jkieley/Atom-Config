@@ -1,0 +1,34 @@
+"*":
+  editor:
+    invisibles: {}
+    normalizeIndentOnPaste: false
+    showInvisibles: true
+  core:
+    themes: [
+      "atom-dark-ui"
+      "solarized-dark-syntax"
+    ]
+    excludeVcsIgnoredPaths: false
+    ignoredNames: [
+      "target"
+    ]
+  "exception-reporting":
+    userId: "9e2ea612-7340-3330-3e55-149b4dc0ee2b"
+  welcome:
+    showOnStartup: false
+  "autocomplete-plus":
+    confirmCompletion: "enter"
+  minimap:
+    scrollAnimation: true
+  linter:
+    subtleLinterErrors: [
+      "jshint"
+    ]
+    showErrorPanel: false
+  "atom-ternjs": {}
+  "file-types":
+    jspx: "text.html.jsp"
+  goto: {}
+".basic.html.text":
+  editor:
+    normalizeIndentOnPaste: "false"
